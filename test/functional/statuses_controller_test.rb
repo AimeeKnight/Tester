@@ -21,7 +21,7 @@ class StatusesControllerTest < ActionController::TestCase
       post :create, status: { content: @status.content, name: @status.name }
     end
 
-    assert_redirected_to status_path(assigns(:status))
+    assert_redirected_to status_path(assigns(:status)) ############
   end
 
   test "should show status" do

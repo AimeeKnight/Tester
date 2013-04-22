@@ -39,7 +39,7 @@ class StatusesController < ApplicationController
 
   # POST /statuses
   # POST /statuses.json
-  def create
+  def create ###########################################
     @status = Status.new(params[:status])
 
     respond_to do |format|

@@ -1,0 +1,12 @@
+{"ts":1365733008942,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<p id=\"notice\"><%= notice %></p>\n\n<p>\n  <b>Name:</b>\n  <%= @status.name %>\n</p>\n\n<p>\n  <b>Content:</b>\n  <%= @status.content %>\n</p>\n\n\n<%= link_to 'Edit', edit_status_path(@status) %> |\n<%= link_to 'Back', statuses_path %>\n"]],"start1":0,"start2":0,"length1":0,"length2":223}]],"length":223}
+{"contributors":[],"silentsave":false,"ts":1365733027482,"patch":[[{"diffs":[[0,"/b>\n"],[-1,"  <%= @status.name %>\n"],[0,"</p>"]],"start1":49,"start2":49,"length1":30,"length2":8}]],"length":201,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1366340897081,"patch":[[{"diffs":[[0,"me:</b>\n"],[1,"  <%= @status.first_name %>\n"],[0,"</p>\n\n<p"]],"start1":45,"start2":45,"length1":16,"length2":44}]],"length":229,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1366425285729,"patch":[[{"diffs":[[0,"@status."],[1,"user."],[0,"first_na"]],"start1":59,"start2":59,"length1":16,"length2":21}]],"length":234,"saved":false}
+{"ts":1366426540503,"patch":[[{"diffs":[[0,"/b>\n"],[-1,"  <%= @status.user.first_name %>\n"],[0,"</p>"]],"start1":49,"start2":49,"length1":41,"length2":8}]],"length":201,"saved":false}
+{"ts":1366427170568,"patch":[[{"diffs":[[0,"me:</b>\n"],[1,"    <%= @status.user.first_name %>\n"],[0,"</p>\n\n<p"]],"start1":45,"start2":45,"length1":16,"length2":51}]],"length":236,"saved":false}
+{"ts":1366427242444,"patch":[[{"diffs":[[0,"/b>\n"],[-1,"    <%= @status.user.first_name %>\n"],[0,"</p>"]],"start1":49,"start2":49,"length1":43,"length2":8}]],"length":201,"saved":false}
+{"ts":1366427271184,"patch":[[{"diffs":[[0,"me:</b>\n"],[1,"     <%= @status.user.first_name %>\n"],[0,"</p>\n\n<p"]],"start1":45,"start2":45,"length1":16,"length2":52}]],"length":237,"saved":false}
+{"ts":1366427844546,"patch":[[{"diffs":[[0,"/b>\n"],[-1,"     <%= @status.user.first_name %>\n"],[0,"</p>"]],"start1":49,"start2":49,"length1":44,"length2":8}]],"length":201,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1366545264317,"patch":[[{"diffs":[[0,"ses_path %>\n"],[1,"\n"]],"start1":189,"start2":189,"length1":12,"length2":13}]],"length":202,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1366591486423,"patch":[[{"diffs":[[0,"path %>\n"],[-1,"\n"]],"start1":193,"start2":193,"length1":9,"length2":8}]],"length":201,"saved":false}
+{"ts":1366591611787,"patch":[[{"diffs":[[0,"me:</b>\n"],[1,"  <%= @status.user.full_name %>\n"],[0,"</p>\n\n<p"]],"start1":45,"start2":45,"length1":16,"length2":48}]],"length":233,"saved":false}
