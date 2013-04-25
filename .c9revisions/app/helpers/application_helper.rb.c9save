@@ -1,1 +1,3 @@
 {"ts":1365450773579,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"module ApplicationHelper\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":29}]],"length":29}
+{"contributors":[],"silentsave":false,"ts":1366912445849,"patch":[[{"diffs":[[0,"onHelper"],[1,"\n\n    def flash_class(type)\n        case type\n        when :alert\n            \"alert-error\"\n        when :notice\n            \"alert-success\"\n        end\n    end"],[0,"\nend\n"]],"start1":16,"start2":16,"length1":13,"length2":173}]],"length":189,"saved":false}
+{"ts":1366912507582,"patch":[[{"diffs":[[0,"uccess\"\n"],[1,"        else\n            \"\"\n"],[0,"        "]],"start1":157,"start2":157,"length1":16,"length2":44}]],"length":217,"saved":false}

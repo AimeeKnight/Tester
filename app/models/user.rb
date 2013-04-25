@@ -19,6 +19,7 @@ class User < ActiveRecord::Base
                                message: 'Must be formatted correctly.'
                             }
                            
+                           
   has_many :statuses
   
   def full_name
