@@ -2,3 +2,5 @@
 {"contributors":[],"silentsave":false,"ts":1365975135270,"patch":[[{"diffs":[[0,"f create"],[1," ###########################################"],[0,"\n    @st"]],"start1":799,"start2":799,"length1":16,"length2":60}]],"length":2005,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1367247772087,"patch":[[{"diffs":[[0,"troller\n"],[1,"    \nbefore_filter :authenticate_user!    \n    \n"],[0,"  # GET "]],"start1":41,"start2":41,"length1":16,"length2":64}]],"length":2053,"saved":false}
 {"ts":1367247850725,"patch":[[{"diffs":[[0,"te_user!"],[1,", only: [:new]"],[0,"    \n   "]],"start1":79,"start2":79,"length1":16,"length2":30}]],"length":2067,"saved":false}
+{"ts":1367256714297,"patch":[[{"diffs":[[0,"y: [:new"],[1,", :create"],[0,"]    \n  "]],"start1":92,"start2":92,"length1":16,"length2":25}]],"length":2076,"saved":false}
+{"ts":1367257407360,"patch":[[{"diffs":[[0," :create"],[1,", :edit, :update"],[0,"]    \n  "]],"start1":101,"start2":101,"length1":16,"length2":32}]],"length":2092,"saved":false}
