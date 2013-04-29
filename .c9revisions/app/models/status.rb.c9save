@@ -26,3 +26,4 @@
 {"contributors":[],"silentsave":false,"ts":1366914621207,"patch":[[{"diffs":[[0,"er\n  \n  "],[-1,"#"],[0,"validate"]],"start1":87,"start2":87,"length1":17,"length2":16},{"diffs":[[0,"    "],[-1,"#"],[0,"leng"]],"start1":148,"start2":148,"length1":9,"length2":8}]],"length":199,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1366943242744,"patch":[[{"diffs":[[0,"ce: true"],[1,","],[0,"\n       "]],"start1":121,"start2":121,"length1":16,"length2":17}]],"length":200,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1367260128140,"patch":[[{"diffs":[[0,"um: 2 }\n"],[1,"                      \n    validates :user_id, presence: true                  \n"],[0,"        "]],"start1":168,"start2":168,"length1":16,"length2":96}]],"length":280,"saved":false}
+{"ts":1367263115772,"patch":[[{"diffs":[[0,"            "],[-1,"   "],[0,"\n           "]],"start1":240,"start2":240,"length1":27,"length2":24}]],"length":277,"saved":false}
