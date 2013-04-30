@@ -12,6 +12,10 @@ Treebook::Application.routes.draw do
   resources :statuses
   get 'feed', to: 'statuses#index', as: :feed
   root to: 'statuses#index'
+  
+  get '/:id', to: 'profiles#show'
+  #calls show method and if @user is true,
+  #will render show action. If @user is false(empty) 404 will render. 
 
 
   # The priority is based upon order of creation:
